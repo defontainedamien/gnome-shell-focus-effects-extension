@@ -1,4 +1,4 @@
-i just change "shell-version": ["3.2"], to "shell-version": ["3.4"],
+i just change "shell-version": ["3.2"], to "shell-version": ["3.4"] in metadata.json file;
 please contact if you find any bug
 defontainedamien@gmail.com
 
