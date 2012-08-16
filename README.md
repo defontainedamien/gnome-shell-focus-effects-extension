@@ -1,3 +1,11 @@
+i just change "shell-version": ["3.2"], to "shell-version": ["3.4"],
+please contact if you find any bug
+defontainedamien@gmail.com
+
+
+
+
+
 ## Gnome shell focus effects extension
 
 This extension allows you to add custom effects on window focus/blur.
