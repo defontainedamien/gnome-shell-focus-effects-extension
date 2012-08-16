@@ -7,13 +7,13 @@
         "scale_x": 1,
         "scale_y": 1,
         "rotation_angle_z": 0,
-        "opacity": 255
+        "opacity": 250
     },
     "blur": {
         "time": 0.5,
         "transition": "easeOutBounce",
-        "scale_x": 0.9,
-        "scale_y": 0.9,
+        "scale_x": 0.6,
+        "scale_y": 0.6,
         "rotation_angle_z": 5,
         "opacity": 150
     }
