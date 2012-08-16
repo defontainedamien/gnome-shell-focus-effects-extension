@@ -1,4 +1,5 @@
 i just change "shell-version": ["3.2"], to "shell-version": ["3.4"] in metadata.json file;
+new change log: put example.ffxrc.json into home folder then rename into .ffxrc.json
 please contact if you find any bug
 defontainedamien@gmail.com
 
